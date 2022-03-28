@@ -1,62 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<!-- This sitemap was dynamically generated on March 28, 2022 at 1:14 PM by All in One SEO Pro - the original SEO plugin for WordPress. -->
 
-
-<url>
-  <loc>https://tipsandinterests.github.io/tech-guides/</loc>
-  <lastmod>2022-03-16T16:49:57+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://tipsandinterests.github.io/tech-guides/category/technology/</loc>
-  <lastmod>2022-03-16T16:49:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tipsandinterests.github.io/tech-guides/category/gadget/</loc>
-  <lastmod>2022-03-16T16:49:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tipsandinterests.github.io/tech-guides/category/accessories/</loc>
-  <lastmod>2022-03-16T16:49:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tipsandinterests.github.io/tech-guides/category/electronics/</loc>
-  <lastmod>2022-03-16T16:49:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tipsandinterests.github.io/tech-guides/category/monitors/</loc>
-  <lastmod>2022-03-16T16:49:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tipsandinterests.github.io/tech-guides/category/fashion/</loc>
-  <lastmod>2022-03-16T16:49:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tipsandinterests.github.io/tech-guides/category/gadgets/</loc>
-  <lastmod>2022-03-16T16:49:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tipsandinterests.github.io/tech-guides/category/accessories-technology/</loc>
-  <lastmod>2022-03-16T16:49:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tipsandinterests.github.io/tech-guides/blog/</loc>
-  <lastmod>2022-03-16T16:49:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
-</urlset>
+<?xml-stylesheet type="text/xsl" href="http://localhost/blog/default.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[http://localhost/blog/post-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-02-08T00:00:45+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[http://localhost/blog/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-03-11T14:42:37+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[http://localhost/blog/category-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-02-08T00:00:45+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>
